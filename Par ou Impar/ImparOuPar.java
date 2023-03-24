@@ -6,9 +6,9 @@ public class Program {
         int numeroDigitado = leitor.nextInt();
         
         if (numeroDigitado % 2 == 0){
-          System.out.println("O numero " numeroDigitado " é par.");
+          System.out.println("O numero " + numeroDigitado + " é par.");
         }else{
-            System.out.println("O numero " numeroDigitado " é impar.");
+            System.out.println("O numero " + numeroDigitado + " é impar.");
         }
         
     }
