@@ -1,3 +1,3 @@
-## Par ou Impar
+# Par ou Impar
 
-# Código Java que solicita que o usuário insira um número e responde se op número digitado é par ou impar.
+## Código Java que solicita que o usuário insira um número e responde se op número digitado é par ou impar.
