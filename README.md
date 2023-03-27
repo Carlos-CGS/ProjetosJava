@@ -1,4 +1,4 @@
-# Projetos em Java - criados e aprimorados por mim
+# Projetos Desenvolvidos em Linguegem Java
 
 ✅  [Multas de Transito](https://github.com/Carlos-CGS/ProjetosJava/tree/main/Multas%20Transito) | Código Java que verifica se a velocidade informada pelo usuário é maior que a permitida e atribui multas a um numero de multas informados previamente pelo usuário. Exibindo uma mensagem dependendo da quantidade de multas no total.
 
