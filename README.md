@@ -1,5 +1,7 @@
 # Projetos Desenvolvidos em Linguegem Java
 
+✅ [Abstração Televisão em java](https://github.com/Carlos-CGS/ProjetosJava/tree/main/Abstracao%20Televisao) | Abstração de uma Televisão, com métodos Ligar, Desligar, Volume, Canal.
+
 ✅  [Multas de Transito](https://github.com/Carlos-CGS/ProjetosJava/tree/main/Multas%20Transito) | Código Java que verifica se a velocidade informada pelo usuário é maior que a permitida e atribui multas a um numero de multas informados previamente pelo usuário. Exibindo uma mensagem dependendo da quantidade de multas no total.
 
 ✅ [Olá Mundo, Apresentação](https://github.com/Carlos-CGS/ProjetosJava/tree/main/Ol%C3%A1Mundo) | Código Java com Olá Mundo e apresentação de uma pessoa utilizando interpolação de variáveis, e criação de métodos.
