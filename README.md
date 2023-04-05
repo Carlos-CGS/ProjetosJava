@@ -1,4 +1,4 @@
-# Projetos Desenvolvidos em Linguegem Java
+# Projetos Desenvolvidos em Linguagem Java
 
 ✅ [Abstração Televisão em java](https://github.com/Carlos-CGS/ProjetosJava/tree/main/Abstracao%20Televisao) | Abstração de uma Televisão, com métodos Ligar, Desligar, Volume, Canal.
 
