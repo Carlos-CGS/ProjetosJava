@@ -33,13 +33,9 @@ A saída consiste em mensagens exibidas na tela do usuário. O programa deve exi
 - Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. 
 
-      Exemplo de Entrada   	                    Exemplo de Saída
-Senhor dos Anéis - As Duas Torres         Valor total da compra: 91.99
-29.99                                     Número de livros comprados: 3
-1                                     Obrigado por comprar na nossa livraria!
-A Cor que Caiu do Espaço
-31.00
-2                                           
+Exemplo de Entrada = Senhor dos Anéis - As Duas Torres, 29.99, 1 /  A Cor que Caiu do Espaço, 31.00, 2	                    
+
+Exemplo de Saída = Valor total da compra: 91.99, Número de livros comprados: 3, Obrigado por comprar na nossa livraria!                          
 
 ## Desafio 3 - Desafio com Java: Idade Planetária
 
@@ -59,10 +55,8 @@ Exibição da idade equivalente em anos planetários de acordo com o planeta esc
 A saída deve ser apresentada em uma mensagem na tela, informando a idade equivalente em anos planetários para o planeta escolhido, com duas casas decimais após a vírgula. Se o planeta informado pelo usuário não for um dos três planetas mencionados acima, a mensagem "Planeta invalido." deve ser exibida.
 
 - Exemplos
-Para ajudar a testar seu programa, a tabela abaixo apresenta alguns exemplos de dados de entrada e suas respectivas saídas esperadas. 
-   Entrada                             Saída
-     30                   Idade equivalente em Jupiter: 2,53 anos
-   Jupiter
+Entrada  = 30, Jupter
+Saída = Idade equivalente em Jupiter: 2,53 anos
 
 ## Desafio 4 - Desafio com Java: Gerenciamento de Loja Geek
 
