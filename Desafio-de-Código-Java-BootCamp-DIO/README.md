@@ -99,5 +99,4 @@ Salário Líquido = Salário Bruto - Imposto + Benefício
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas:
 
 Entrada = 1000, 100
-
 Saída = 1050.00
