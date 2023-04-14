@@ -56,6 +56,7 @@ A saída deve ser apresentada em uma mensagem na tela, informando a idade equiva
 
 - Exemplos
 Entrada  = 30, Jupter
+
 Saída = Idade equivalente em Jupiter: 2,53 anos
 
 ## Desafio 4 - Desafio com Java: Gerenciamento de Loja Geek
@@ -72,34 +73,31 @@ O programa irá classificar cada funcionário em "APR" (bom), "MED" (médio) ou 
 - Se a média da avaliação for menor que 7, mas maior ou igual a 5, o funcionário terá sua avaliação como "MED";
 - Se a média for maior ou igual a 7, o funcionário está aprovado no teste de desempenho e será classificado como "APR".
 
-Exemplos
-A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas. 
-    Entrada         Saída
-      3              REP
-      6              MED
-      8              APR
-
 ## Desafio 5 - Desafio com Java: Mudança para Irlanda
 
 - Você está planejando uma mudança para a Irlanda e precisa calcular qual será o seu salário líquido, considerando o imposto a ser pago à Receita Federal. Para isso, você precisa implementar um programa que receba como entrada o seu salário bruto e o valor dos benefícios recebidos (como vale-refeição ou vale-transporte) e calcule o imposto a ser pago, de acordo com a tabela abaixo:
 
-  Salário Bruto     	          Alíquota
-Até R$ 1.100,00	                  5%
-De R$ 1.100,01 até R$ 2.500,00	10%
-Acima de R$ 2.500,00	            15%
+Até R$ 1.100,00,  Alíquota = 5%
+
+De R$ 1.100,01 até R$ 2.500,00,	Alíquota = 10%
+
+Acima de R$ 2.500,00, Alíquota = 15%
 
 - O programa deve calcular o Imposto a ser pago de acordo com a tabela acima e, em seguida, subtrair esse valor do Salário Bruto mais os Benefícios, para obter o Salário Líquido.
 
 - Entrada
 Um valor do tipo double correspondente ao Salário Bruto.
+
 Um valor do tipo double correspondente aos Benefícios recebidos.
 
 - Saída
 Um valor do tipo double correspondente ao salário líquido após o pagamento do imposto, formatado com 2 casas decimais. Resumidamente, podemos condensar esse cálculo por meio da seguinte fórmula:
+
 Salário Líquido = Salário Bruto - Imposto + Benefício
 
 - Exemplos
 A tabela abaixo apresenta exemplos com alguns dados de entrada e suas respectivas saídas esperadas:
-Entrada           Saída
- 1000            1050.00
- 100
+
+Entrada = 1000, 100
+
+Saída = 1050.00
